@@ -5,3 +5,5 @@ numpy
 requests
 xgboost
 joblib
+matplotlib
+seaborn
